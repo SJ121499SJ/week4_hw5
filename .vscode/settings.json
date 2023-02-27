@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "PostgreSQL",
+            "name": "car_homework",
+            "connectString": "postgres://xdvrdjdo:z837vjb3irwXF-9COO98hWOPuZzyCZSn@raja.db.elephantsql.com/xdvrdjdo"
+        }
+    ]
+}
